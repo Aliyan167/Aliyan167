@@ -8,6 +8,7 @@ I'm Aliyan, a Professional full-Stack Developer specializing in Django, with a s
 
 <img src="https://raw.githubusercontent.com/Aliyan167/Aliyan167/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   🛠 Skills
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   </br>
 <div>
 
