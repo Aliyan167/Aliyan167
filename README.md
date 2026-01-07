@@ -10,3 +10,7 @@ I'm Aliyan, a Professional full-Stack Developer specializing in Django, with a s
 
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+
